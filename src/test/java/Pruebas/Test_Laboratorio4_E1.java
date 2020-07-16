@@ -21,7 +21,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterSuite;
 
 
-public class Laboratorio4_E1 {
+public class Test_Laboratorio4_E1 {
     WebDriver driver;
     String url = "http://automationpractice.com/index.php";
     String pathDriver = "..\\EducacionIt\\Drivers\\chromedriver.exe";
